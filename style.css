@@ -1,0 +1,41 @@
+body{
+    background-color:rgba(0, 54, 181, 0.579)
+}
+
+h1{
+    text-align:center;
+    margin:0px;
+}
+
+header{
+    text-align:center;
+    margin-top:70px;
+}
+
+header img{
+   border-radius:50%;
+   width:22%;
+}
+
+header h2{
+    margin-top:0px
+}
+
+nav {
+    display:flex;
+    justify-content:center
+}
+
+footer img {
+    width: 40px;
+    weight: 40px;
+}
+
+footer a {
+    margin: 15px;
+    text-align: center;
+}
+
+footer p {
+    margin-top: 0px;
+}
